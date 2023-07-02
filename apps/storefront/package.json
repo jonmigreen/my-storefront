@@ -48,8 +48,7 @@
     "react-use": "17.4.0",
     "tailwind-scrollbar-hide": "1.1.7",
     "ts-invariant": "0.10.3",
-    "url-join": "4.0.1",
-    "react-social-icons": "5.15.0"
+    "url-join": "4.0.1"
   },
   "devDependencies": {
     "@formatjs/cli": "5.1.3",
